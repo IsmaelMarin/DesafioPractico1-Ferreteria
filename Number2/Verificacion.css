@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.Principal{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.navegacion a{
+    margin-left: 10px;
+}
+
+h4{
+    display: inline-block;
+}
+.Contenido{
+    display:flex;
+    flex-wrap: wrap;
+    margin: 25px 25px;
+}
+.Productos{
+    width: 50%;
+    margin: 25px auto;
+
+}
+.Modelado{
+    width: 475px;
+    height: 250px;
+}
+.navegacion i{
+    color:brown;
+    font-size: 20px;
+}
+
+.cantidad{
+    width:50px;
+    height: 30px;
+    margin:5px 5px;
+    
+}
+.boton{
+    width:60px;
+    height: 30px;
+    margin:5px 5px;
+    
+}
+.Compras{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+h1{
+    text-align: center;
+}
+.Uno{
+    background-color: cadetblue;
+    width: 500px;
+    margin-right: 10px;
+    text-align: center;
+    padding: 25px 25px;
+    border-radius: 10px;
+
+}
+.Dos{
+    background-color: cornflowerblue;
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+
+}
+.prueba{
+    display: inline-block;
+    color:blue;
+}
+.prueba2{
+    display: inline-block;
+}
+.Especial{
+    margin-top: 20px;
+}
+.Especial a{
+    margin-left: 10px;
+}
+.boton1{
+    background-color:rgb(9, 68, 9)   ;
+    padding: 5px;
+    border-radius: 10px;
+    color:cadetblue;
+}
+.boton2{
+    background-color:rgb(9, 68, 9);
+    padding: 5px;
+    border-radius: 10px;
+    color:cadetblue;
+}
+.boton3{
+    background-color:rgb(44, 6, 75);
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    color:cadetblue;
+}
+.eliminar{
+    color:rgb(116, 61, 7);
+}
+.mover{
+    margin: 20px 10%;
+    background-color: cadetblue;
+    padding:15px;
+    border-radius:5px;
+}
+.file1{
+    width: 300px;
+    font-size: 15px;
+    border-radius: 5px;
+   
+
+}
+
+.file2{
+    width: 300px;
+    height: 25px;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: darkslateblue;
+
+}

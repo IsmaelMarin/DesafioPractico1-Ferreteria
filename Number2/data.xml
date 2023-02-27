@@ -1,0 +1,15 @@
+<root>
+   <productos>
+      <producto codigo="Tala12" nombre="Taladro" descripcion="TALADRO PERCUTOR 1/2 PULGADAS 850 WATTS VELOCIDAD VARIABLE REVERSIBLE" precio="45.0" image="Taladro.jpg" ></producto>
+      <producto codigo="Mar12" nombre="Martillo" descripcion="MARTILLO DE HULE 16 ONZAS" precio="6.90" image="MartilloHule.jpg" ></producto>  
+      <producto codigo="AP12" nombre="Aparato de soldadura" descripcion="SOLDADOR INVERSOR ELÉCTRICO PORTÁTIL 160 AMPERIOS 110/220 VOLTIO" precio="200" image="Soldador.jpg" ></producto>  
+      <producto codigo="SE12" nombre="Sierra Electrica" descripcion="SIERRA CIRCULAR 7-1/4 PULGADAS 1400 WATTS" precio="75" image="SierraCircular.jpg" ></producto>  
+      <producto codigo="CD12" nombre="Caja de Destornilladores" descripcion="SET DE DESTORNILLADOR PHILLIPS/PLANO INDUSTRIAL" precio="7" image="Destornilladores.jpg" ></producto>  
+      <producto codigo="LA12" nombre="Llaves Allen" descripcion="SET DE LLAVE ALLEN 1.5-10 MILÍMETRO" precio="10" image="LlavesAllen.jpg" ></producto>  
+      <producto codigo="GT12" nombre="Guantes" descripcion="GUANTE MANGA CORTA CUERO/LONA" precio="5" image="Guantes.jpg" ></producto>  
+      <producto codigo="VT12" nombre="Ventilador" descripcion="VENTILADOR PEDESTAL 45 WATTS 16 PULGADAS 3 VELOCIDADES NEGRO" precio="30" image="Ventilador.jpg" ></producto>  
+      <producto codigo="CE12" nombre="Caja para herramientas" descripcion="CAJA PARA HERRAMIENTAS 19-1/2 PULGADAS METAL PLEGABLE" precio="36" image="CajaHerramientas.jpg" ></producto>    
+   
+   </productos>
+
+</root>
