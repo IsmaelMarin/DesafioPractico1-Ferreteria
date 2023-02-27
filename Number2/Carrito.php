@@ -46,7 +46,7 @@ session_start();
     echo "<h3>El total de la compra actual es de: $total $ </h3>";
     //echo "<input type='text' name='btnTotal' value='$total'>";    //TOTAL
     echo "<div class='Especial'> ";
-    echo '<a class="boton1" href="Verificacion.php">Regresar</a>
+    echo '<a class="boton1" href="index.php">Regresar</a>
          <a  class="boton2" href="Carrito.php?vaciar=true">Vaciar Carrito</a>';
     echo "</div>";
     echo "<input type='submit' name='btnAgregar' class='boton3' value='Generar PDF'>";     
